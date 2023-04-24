@@ -75,7 +75,7 @@
 							<a href="#" 
 								class="btn btn-success">Regresar</a>
 							<br><br>
-							<a href="nuevoregistro.php" class="texto-centrado">Desea crear un nuevo registro?</a>							
+							<a href="nuevoregistro1.php" class="texto-centrado">Desea crear un nuevo registro?</a>							
 						</form>
 					</div>
 					<div class="col-md-4">					

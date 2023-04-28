@@ -43,6 +43,7 @@
                                 <li><a href="registro.php">Registro</a></li>
                                 <li><a href="lista.php">Lista</a></li>
                                 <li><a href="consulta.php">Consulta</a></li>
+				<li><a href="Editaruser.php">Editar usuario</a></li>
                             </ul>
                         </div>
                     </nav>

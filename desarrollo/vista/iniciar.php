@@ -75,13 +75,33 @@
 							<a href="#" 
 								class="btn btn-success">Regresar</a>
 							<br><br>
-							<a href="nuevoregistro1.php" class="texto-centrado">Desea crear un nuevo registro?</a>							
-						</form>
+							<a href="nuevoregistro.php" class="texto-centrado">Desea crear un nuevo registro?</a><hr>
+					
+		</form>
+		<a class="d-flex btn btn-danger  justify-content-center" href="recuperarContraseña.php" >olvido su contraseña?</a>	
+		
+
+        
+
+		<style>
+			a.btn-danger{
+			display: grid;
+			place-items: center;
+			}
+		</style>
+		
+     
+
+
+					</div>	
 					</div>
-					<div class="col-md-4">					
-					</div>
+					<div class="col-md-4">			
+
 				</div>
+
 			</div>
+
 		</section>	
+
 	</body>
 </html>
